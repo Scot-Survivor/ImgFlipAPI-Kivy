@@ -1,0 +1,20 @@
+[
+    {
+        "type": "title",
+        "title": "Core"
+    },
+    {
+        "type": "string",
+        "title": "Username",
+        "desc": "Username to login with",
+        "section": "security",
+        "key": "username"
+    },
+    {
+        "type": "string",
+        "title": "Password",
+        "desc": "Password to login with",
+        "section": "security",
+        "key": "password"
+    }
+]
